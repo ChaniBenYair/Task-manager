@@ -57,14 +57,11 @@ firebase-hosting-merge.yml – לפריסה אוטומטית לאחר מיזוג
 
 🖼️ צילומי מסך
 
-![צילום מסך מהדוקר](https://github.com/user-attachments/assets/b73c7f0b-d77f-44e0-bb20-e23fb417046d)
+![צילום מסך מערכת](https://github.com/user-attachments/assets/b73c7f0b-d77f-44e0-bb20-e23fb417046d)
 
 
 
 📁 מבנה תיקיות
-pgsql
-Copy
-Edit
 task-manager/
 ├── app/
 │   └── page.tsx
