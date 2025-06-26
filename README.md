@@ -32,7 +32,7 @@ git clone https://github.com/ChaniBenYair/task-manager.git
 cd task-manager
 npm install
 npm run dev
-
+bash```
 ---
 ### הרצה עם Docker:
 ```bash
@@ -56,7 +56,10 @@ firebase-hosting-merge.yml – לפריסה אוטומטית לאחר מיזוג
 🛡️ נוספו סודות (Secrets) בגיטהאב לשם גישה מאובטחת ל־Firebase.
 
 🖼️ צילומי מסך
-(כאן תצרפי צילומי מסך של המערכת שלך)
+
+![צילום מסך מהדוקר](https://github.com/user-attachments/assets/b73c7f0b-d77f-44e0-bb20-e23fb417046d)
+
+
 
 📁 מבנה תיקיות
 pgsql
