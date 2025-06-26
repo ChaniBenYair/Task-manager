@@ -23,7 +23,7 @@
 - Vite
 
 ---
-
+---
 ## 🛠️ הוראות התקנה והרצה
 
 ### התקנה מקומית:
@@ -32,10 +32,10 @@ git clone https://github.com/ChaniBenYair/task-manager.git
 cd task-manager
 npm install
 npm run dev
-הרצה עם Docker:
-bash
-Copy
-Edit
+
+---
+### הרצה עם Docker:
+```bash
 docker build -t task-manager .
 docker run -d -p 3000:80 task-manager
 גישה דרך הדפדפן: http://localhost:3000
